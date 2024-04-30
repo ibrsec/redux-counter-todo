@@ -1,0 +1,39 @@
+.counter-header {
+  margin-bottom: 0;
+  color: wheat;
+}
+.counter-counter{
+  color: wheat;
+
+}
+.counter-neg {
+  color: red;
+}
+.counter-pos {
+  color: green;
+}
+
+.counter-zero {
+  color: white;
+}
+
+.counter-button {
+  font-size: 1rem;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+  width: 100px;
+  cursor: pointer;
+}
+
+.positive {
+  background-color: darkcyan;
+  color: white;
+  border-color:darkblue; 
+}
+
+.negative {
+  background-color: darkred;
+  color: white; 
+  border-color:darkgoldenrod; 
+}
